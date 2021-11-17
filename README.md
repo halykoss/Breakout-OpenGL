@@ -1,5 +1,5 @@
 # Breakout [OpenGL]
-Breakout clone written in C using OpenGL.
+Breakout clone written in C using OpenGL. The waves move while you're playing. :-)
 
 ![Game running](img/Breakout.png)
 
