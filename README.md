@@ -5,7 +5,7 @@ Breakout clone written in C using OpenGL.
 
 ## How to run?
 
-If you want to run the code, you have to install the following packages:
+If you want to run the code, install the following packages:
 
 ```
 install-package nupengl.core
